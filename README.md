@@ -1,4 +1,4 @@
-<a href="http://www.discourse.org/">![Logo](images/discourse.png)</a>
+[![logo](https://github.com/discourse/discourse/raw/master/images/discourse.png)](http://www.discourse.org)
 
 Discourse is the 100% open source discussion platform built for the next decade of the Internet. It works as:
 
