@@ -10,13 +10,13 @@ To learn more about the philosophy and goals of the project, [visit **discourse.
 
 ## Screenshots
 
-<a href="https://bbs.boingboing.net"><img src="https://www.discourse.org/faq/14/boing-boing-discourse.png" width="720px"></a>
-<a href="https://discuss.newrelic.com/"><img src="https://www.discourse.org/faq/14/new-relic-discourse.png" width="720px"></a>
-<a href="http://discuss.howtogeek.com"><img src="https://www.discourse.org/faq/14/how-to-geek-discourse.png" width="720px"></a>
-<a href="https://talk.turtlerockstudios.com/"><img src="https://www.discourse.org/faq/14/turtle-rock-discourse.jpg" width="720px"></a>
-
-<a href="https://discuss.atom.io"><img src="https://www.discourse.org/faq/14/nexus-7-mobile-discourse.png" alt="Atom" width="410px"></a> &nbsp;
-<a href="//discourse.soylent.com"><img src="https://www.discourse.org/faq/14/iphone-5s-mobile-discourse.png" alt="Soylent" width="270px"></a>
+<a href=""><img src="" width="720px"></a>
+[![bbs](https://www.discourse.org/faq/14/boing-boing-discourse.png)](https://bbs.boingboing.net)
+[![discuss.newrelic.com](https://www.discourse.org/faq/14/new-relic-discourse.png)](https://discuss.newrelic.com/)
+[![discuss.howtogeek.com](https://www.discourse.org/faq/14/how-to-geek-discourse.png)](http://discuss.howtogeek.com)
+[![talk](https://www.discourse.org/faq/14/turtle-rock-discourse.jpg)](https://talk.turtlerockstudios.com/)
+[![discuss.atom.io](https://www.discourse.org/faq/14/nexus-7-mobile-discourse.png)](https://discuss.atom.io)
+[![discourse](https://www.discourse.org/faq/14/iphone-5s-mobile-discourse.png)](//discourse.soylent.com)
 
 Browse [lots more notable Discourse instances](http://www.discourse.org/faq/customers/).
 
